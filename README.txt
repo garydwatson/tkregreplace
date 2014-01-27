@@ -1,3 +1,8 @@
+At this point one of my primary interests in preservign this program is that
+it serves as a pretty good demo on how to layout non-trivial tk GUI's so
+I'll probably tend to use it as a memory aid when I want to spin up new tk
+GUI programs.  Original README docs are below...
+
 This program is currently in alpha status.  It works pretty well at present as a
 visualization tool, however crucial features are still missing from the program
 like the ability to save the text file back to disk.  Also there may be somewhat
