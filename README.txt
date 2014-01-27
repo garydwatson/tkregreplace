@@ -21,6 +21,10 @@ an undo facility, preferably a multi level undo
 I think If I can implement these features, this program could actually be useful to somebody.
 
 changlog
+    version 0.1.2
+        Took out rdoc/usage which is no longer supported from 1.9.3 onward,
+        tested with ruby 2.1.0 and it still works :), added a line so it loads
+        up tiles
 
     version 0.1.1
         Added rdoc documentation to the source and changed the gem so that it
